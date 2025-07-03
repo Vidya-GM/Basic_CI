@@ -17,3 +17,6 @@ def simple_eq(a, b):
     y = sub(a, b)
     result = x+2*y
     return result
+
+
+print("Test resloving conflicts on branch, and actions")
