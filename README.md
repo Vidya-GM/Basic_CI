@@ -1,0 +1,1 @@
+## Simple python app for CI/Github-actions
